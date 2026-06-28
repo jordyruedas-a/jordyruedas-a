@@ -63,10 +63,6 @@
   <a href="https://www.hackerrank.com/profile/ruedasvzz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
-  <!-- Si tienes un usuario de dev.to, cambia el '#' por tu enlace. Si no, puedes borrar esta línea -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
-  </a>
 </div>
 
 ###
@@ -101,12 +97,6 @@ I've had the privilege of working on **2 company-linked projects**, gaining real
 
 Here are some of the projects I've built and contributed to:
 
-### 📚 RUEDAS Library System
-A full-stack business management web app for a real local bookstore. Automates sales, inventory, and PDF receipt emailing.
-- **Tech:** Python, Flask, MongoDB, SendGrid, PDFKit, bcrypt
-- **📺 YouTube Walkthrough:** [Watch here](https://www.youtube.com/watch?v=dxGYZ7Qxe5w)
-- **🔗 GitHub:** [jordyruedas-a/RUEDAS-library-system](https://github.com/jordyruedas-a/RUEDAS-library-system)
-
 ### 📊 Compranet Analyst
 A data science project analyzing 907 MB of Mexican government public procurement data (2010–2022) using Python. Includes massive data cleaning, feature engineering, KPI extraction, and Power BI integration.
 - **Tech:** Python, Pandas, Power BI, Matplotlib, Seaborn
@@ -118,31 +108,6 @@ Five advanced AI modules exploring intelligent traffic lights, K-Means from scra
 - **📺 YouTube Walkthrough:** [Watch here](https://www.youtube.com/watch?v=TvV5Wk1bsWg)
 - **🔗 GitHub:** [jordyruedas-a/Practicas_PSA](https://github.com/jordyruedas-a/Practicas_PSA)
 
-### 🎬 CineVibeAI — Movie Recommender
-Fine-tuned a GPT-2 Spanish model to generate mood-based movie recommendations using a custom 8-category dataset.
-- **Tech:** Python, Transformers, Gradio, Google Colab, JSONL
-- **🔗 GitHub:** [jordyruedas-a/recomendador-peliculas](https://github.com/jordyruedas-a/recomendador-peliculas)
-
-### 💻 LengPro Website
-A dynamic educational portal on programming paradigms with a functional contact form, interactive timeline, and video gallery.
-- **Tech:** Flask, HTML/CSS, JavaScript, SendGrid, Jinja2
-- **📺 YouTube Walkthrough:** [Watch here](https://youtu.be/mt_IKsgirLY)
-- **🔗 GitHub:** [jordyruedas-a/lengpro-website](https://github.com/jordyruedas-a/lengpro-website)
-
----
-
-## 🎓 Education & Certifications
-
-**FIME, Universidad Autónoma de Nuevo León**  
-*Bachelor's in Software Technology Engineering (2024 – 2028, in progress)*
-
-**Certifications (Coursera, IBM, Microsoft):**
-- Microsoft Power BI Data Analyst Professional Certificate
-- IBM Agile Development & Scrum
-- Python for Everybody (University of Michigan)
-- Databases and SQL for Data Science (IBM)
-- Python for Data Science, AI & Development (IBM)
-- Data Visualization & Business Intelligence Specialization
 
 ---
 
