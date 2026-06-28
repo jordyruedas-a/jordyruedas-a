@@ -26,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="60" alt="seaborn logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60" alt="scikitlearn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo" />
@@ -69,7 +67,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordyruedas-a&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyruedas-a&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=jordyruedas-a&theme=dracula&hide_border=true" height="150" alt="Streak stats" />
@@ -101,12 +98,6 @@ I've had the privilege of working on **2 company-linked projects**, gaining real
 
 Here are some of the projects I've built and contributed to:
 
-### 📚 RUEDAS Library System
-A full-stack business management web app for a real local bookstore. Automates sales, inventory, and PDF receipt emailing.
-- **Tech:** Python, Flask, MongoDB, SendGrid, PDFKit, bcrypt
-- **📺 YouTube Walkthrough:** [Watch here](https://www.youtube.com/watch?v=dxGYZ7Qxe5w)
-- **🔗 GitHub:** [jordyruedas-a/RUEDAS-library-system](https://github.com/jordyruedas-a/RUEDAS-library-system)
-
 ### 📊 Compranet Analyst
 A data science project analyzing 907 MB of Mexican government public procurement data (2010–2022) using Python. Includes massive data cleaning, feature engineering, KPI extraction, and Power BI integration.
 - **Tech:** Python, Pandas, Power BI, Matplotlib, Seaborn
@@ -124,8 +115,3 @@ Five advanced AI modules exploring intelligent traffic lights, K-Means from scra
 ## 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, data projects, or just connecting with fellow tech enthusiasts.
-
-- **Email:** ruedasvzz@gmail.com / jordyruedas@gmail.com
-- **LinkedIn:** [jordan-emanuel-ruedas-vazquez-3289213a4](https://www.linkedin.com/in/jordan-emanuel-ruedas-vazquez-3289213a4)
-- **GitHub:** [@jordyruedas-a](https://github.com/jordyruedas-a)
-- **YouTube:** [Jordan Emanuel Ruedas Vazquez](https://www.youtube.com/@jordanemanuelruedasvazquez1260)
