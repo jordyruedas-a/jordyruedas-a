@@ -67,9 +67,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyruedas-a&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
-  <br />
+
   <img src="https://streak-stats.demolab.com?user=jordyruedas-a&theme=dracula&hide_border=true" height="150" alt="Streak stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyruedas-a&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+  <br />
 </div>
 
 ## 👋 About Me
@@ -110,8 +111,3 @@ Five advanced AI modules exploring intelligent traffic lights, K-Means from scra
 - **🔗 GitHub:** [jordyruedas-a/Practicas_PSA](https://github.com/jordyruedas-a/Practicas_PSA)
 
 
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new opportunities, data projects, or just connecting with fellow tech enthusiasts.
