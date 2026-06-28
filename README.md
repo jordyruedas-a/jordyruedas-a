@@ -49,8 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="60" alt="powerbi logo" />
+ 
 </div>
 
 ###
@@ -69,9 +68,11 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=jordyruedas-a&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/jordyruedas-a/jordyruedas-a/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordyruedas-a&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordyruedas-a&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=jordyruedas-a&theme=dracula&hide_border=true" height="150" alt="Streak stats" />
 </div>
 
 ## 👋 About Me
@@ -117,31 +118,6 @@ Five advanced AI modules exploring intelligent traffic lights, K-Means from scra
 - **📺 YouTube Walkthrough:** [Watch here](https://www.youtube.com/watch?v=TvV5Wk1bsWg)
 - **🔗 GitHub:** [jordyruedas-a/Practicas_PSA](https://github.com/jordyruedas-a/Practicas_PSA)
 
-### 🎬 CineVibeAI — Movie Recommender
-Fine-tuned a GPT-2 Spanish model to generate mood-based movie recommendations using a custom 8-category dataset.
-- **Tech:** Python, Transformers, Gradio, Google Colab, JSONL
-- **🔗 GitHub:** [jordyruedas-a/recomendador-peliculas](https://github.com/jordyruedas-a/recomendador-peliculas)
-
-### 💻 LengPro Website
-A dynamic educational portal on programming paradigms with a functional contact form, interactive timeline, and video gallery.
-- **Tech:** Flask, HTML/CSS, JavaScript, SendGrid, Jinja2
-- **📺 YouTube Walkthrough:** [Watch here](https://youtu.be/mt_IKsgirLY)
-- **🔗 GitHub:** [jordyruedas-a/lengpro-website](https://github.com/jordyruedas-a/lengpro-website)
-
----
-
-## 🎓 Education & Certifications
-
-**FIME, Universidad Autónoma de Nuevo León**  
-*Bachelor's in Software Technology Engineering (2024 – 2028, in progress)*
-
-**Certifications (Coursera, IBM, Microsoft):**
-- Microsoft Power BI Data Analyst Professional Certificate
-- IBM Agile Development & Scrum
-- Python for Everybody (University of Michigan)
-- Databases and SQL for Data Science (IBM)
-- Python for Data Science, AI & Development (IBM)
-- Data Visualization & Business Intelligence Specialization
 
 ---
 
@@ -153,11 +129,3 @@ I'm always open to discussing new opportunities, data projects, or just connecti
 - **LinkedIn:** [jordan-emanuel-ruedas-vazquez-3289213a4](https://www.linkedin.com/in/jordan-emanuel-ruedas-vazquez-3289213a4)
 - **GitHub:** [@jordyruedas-a](https://github.com/jordyruedas-a)
 - **YouTube:** [Jordan Emanuel Ruedas Vazquez](https://www.youtube.com/@jordanemanuelruedasvazquez1260)
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordyruedas-a/jordyruedas-a/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordyruedas-a/jordyruedas-a/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jordyruedas-a/jordyruedas-a/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
